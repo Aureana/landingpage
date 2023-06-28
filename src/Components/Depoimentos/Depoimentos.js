@@ -25,7 +25,7 @@ function Depoimentos() {
                     <video control width={100} height={250}></video>
                     <p><strong>Karina</strong></p>
                     <p>Aluna Abolição</p>
-                    <p>"Reprovada 5 vezes em outra autoescola, hoje estou habilitada graças ao Grupo Stop."</p>
+                    <p>"Reprovada 5 vezes em outra autoescola, hoje estou habilitada graças ao Grupo Stop. Super Indico"</p>
                 </Col>
             </Row>
         </Container>
